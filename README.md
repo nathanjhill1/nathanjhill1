@@ -1,6 +1,6 @@
 - Hello, I’m @nathanjhill1.
-- I'm a Master's student at Virginia Tech in the Master of Information Technology program.
-- I am also a web and mobile full-stack developer, primarily working with Xamarin iOS. 
+- I am a web and mobile full-stack developer, primarily working with Xamarin iOS. 
+- I also recently received a Master's in Information Technology degree from Virginia Tech. Welcome!
 
 <!---
 nathanjhill1/nathanjhill1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
